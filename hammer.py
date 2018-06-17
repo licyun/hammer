@@ -27,7 +27,6 @@ def my_bots():
 	global bots
 	bots=[]
 	bots.append("http://validator.w3.org/check?uri=")
-	bots.append("http://www.facebook.com/sharer/sharer.php?u=")
 	return(bots)
 
 
