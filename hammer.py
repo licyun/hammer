@@ -27,6 +27,8 @@ def my_bots():
 	global bots
 	bots=[]
 	bots.append("http://validator.w3.org/check?uri=")
+	bots.append("https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=")
+	
 	return(bots)
 
 
